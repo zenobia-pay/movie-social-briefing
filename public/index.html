@@ -20,6 +20,11 @@
     <h1>What are the most talked about movies on social media</h1>
   <p class="meta"><a href="https://briefing-hub.founders-0e1.workers.dev" target="_blank">← All briefings (hub)</a></p>
     <p class="sub">Primary-source driven briefing. Verbatim text + links.</p>
+    <div class="card" style="display:flex;gap:10px;align-items:center;">
+      <button id="runBtn">Run again today</button>
+      <details><summary>ℹ prompt</summary><pre id="runPromptView" style="white-space:pre-wrap;font-size:.82rem;max-width:760px;"></pre></details>
+      <span id="runStatus" class="muted"></span>
+    </div>
 
     <div class="card">
       <h2>Top things FilmTwitter is following right now</h2>
@@ -35,6 +40,19 @@
   </div>
 
 <script>
+const RUN_PROMPT = `You are producing a daily intelligence briefing for me.
+Topic: What are the most talked about movies on social media?
+Date: ${new Date().toISOString().slice(0,10)}
+Use Browser Use + SuperGrok on X.
+Primary-source style: one-sentence take, then linked tweet/paper evidence in email format.
+Update movie-social-briefing with today's dated run and refresh global Signals.`;
+runPromptView.textContent = RUN_PROMPT;
+runBtn.onclick = async () => {
+  runStatus.textContent = 'sending...';
+  const r = await fetch('/api/run', { method:'POST', headers:{'content-type':'application/json'}, body: JSON.stringify({ prompt: RUN_PROMPT })});
+  const j = await r.json().catch(()=>({}));
+  runStatus.textContent = j.ok ? 'sent to Slack trigger' : `failed (${j.error||r.status})`;
+};
 (async function(){
   const data = await (await fetch('/sources.json')).json();
   const tops = document.getElementById('tops');
