@@ -5,5 +5,6 @@
     "No summary-only claims without source links.",
     "Keep user-provided text verbatim in quote blocks.",
     "Each row must include a direct source URL (or explicit search URL when direct URL is missing)."
-  ]
+  ],
+  "asOf": "2026-03-06"
 }

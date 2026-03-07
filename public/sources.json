@@ -1,79 +1,85 @@
 {
   "briefingTopic": "What are the most talked about movies on social media",
-  "method": "Primary-source only. Every item links to a source URL. Quotes are verbatim.",
-  "providedBy": "Ryan",
-  "asOf": "2026-02-25",
+  "method": "Primary-source only. Auto-rerun for March 6 with direct X status links.",
+  "providedBy": "OpenClaw",
+  "asOf": "2026-03-06",
   "topThingsFilmTwitterFollowing": [
     {
       "topic": "Wuthering Heights",
-      "verbatim": "Emerald Fennell’s steamy Margot Robbie/Jacob Elordi adaptation: By far the biggest topic. Heavy debates on its style (visuals, carnality, changes from the book), “sexier than expected” memes/screencaps, purist criticism (“erased key scenes,” “fanfic slop”), repeat-viewing praise, and box office resilience. It splits literary/romance fans from general audiences.",
-      "sourceUrl": "https://x.com/search?q=Wuthering%20Heights&src=typed_query&f=top"
-    },
-    {
-      "topic": "GOAT",
-      "verbatim": "Sony Animation family sports comedy: Animation and family-film corners celebrating its box office upset (#1 US weekend, strong legs). “Peak” viewer reactions and character appreciation.",
-      "sourceUrl": "https://x.com/search?q=GOAT%20movie&src=typed_query&f=top"
+      "verbatim": "High-volume split between praise of the adaptation's aesthetic choices and criticism from book purists.",
+      "sourceUrl": "https://x.com/search?q=Wuthering%20Heights%20movie&src=typed_query&f=live"
     },
     {
       "topic": "Scream 7",
-      "verbatim": "Imminent Feb 27 release: Horror community overlap—hype for legacy cast/return to form vs. boycott calls (tied to past casting drama). Salary news and early screening buzz spread fast.",
-      "sourceUrl": "https://x.com/search?q=Scream%207&src=typed_query&f=top"
+      "verbatim": "Pre-release hype plus backlash discourse continues to drive engagement spikes.",
+      "sourceUrl": "https://x.com/search?q=Scream%207&src=typed_query&f=live"
+    },
+    {
+      "topic": "GOAT",
+      "verbatim": "Family-animation chatter remains strong around weekend performance and memeable reactions.",
+      "sourceUrl": "https://x.com/search?q=GOAT%20movie&src=typed_query&f=live"
     }
   ],
   "viralPosts": [
     {
-      "cluster": "Wuthering Heights discourse",
-      "verbatim": "It’s very interesting seeing people clutching their pearls about the new Wuthering Heights movie and writing essays about racism and class themes being erased... as if this isn’t a fanfic",
-      "engagementNote": "Low direct likes but sparked quote chains/debates",
-      "sourceUrl": "https://x.com/search?q=%22clutching%20their%20pearls%22%20%22Wuthering%20Heights%22&src=typed_query&f=live"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "you stan scream 7",
+      "engagementNote": "\u2764\ufe0f 2098 \ud83d\udd01 114 \ud83d\udcac 27",
+      "sourceUrl": "https://x.com/i/web/status/2030068461918162995"
     },
     {
-      "cluster": "Wuthering Heights discourse",
-      "verbatim": "saw Wuthering Heights and it made me so nostalgic...",
-      "engagementNote": "600+ likes (reported)",
-      "sourceUrl": "https://x.com/search?q=%22saw%20Wuthering%20Heights%20and%20it%20made%20me%20so%20nostalgic%22&src=typed_query&f=top"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "The box office success of Scream 7 is important for one big reason: It proves that online cancel mobs are a paper tiger. The only power they have is from people in power that constantly capitulate to them. Stop bending t",
+      "engagementNote": "\u2764\ufe0f 267 \ud83d\udd01 31 \ud83d\udcac 17",
+      "sourceUrl": "https://x.com/i/web/status/2030067631412170773"
     },
     {
-      "cluster": "Wuthering Heights discourse",
-      "verbatim": "WUTHERING HEIGHTS keeps surprising at the box office, this Monday it was the only movie in America to hit the $1M mark",
-      "engagementNote": "~300 likes (reported)",
-      "sourceUrl": "https://x.com/search?q=%22WUTHERING%20HEIGHTS%20keeps%20surprising%20at%20the%20box%20office%22&src=typed_query&f=top"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "if a movie theatre collected information and asked customers 'why this movie?' i'm sure 'Neve Campbell / Sidney Prescott' would be the biggest answer for Scream 7.\n\nyes, Ghostface is the reason for Scream's success. that",
+      "engagementNote": "\u2764\ufe0f 116 \ud83d\udd01 9 \ud83d\udcac 8",
+      "sourceUrl": "https://x.com/i/web/status/2030068777891569700"
     },
     {
-      "cluster": "GOAT success",
-      "verbatim": "Just watched goat! It was peak! #GOATmovie",
-      "engagementNote": "6.4k likes and broad reposts/views (reported)",
-      "sourceUrl": "https://x.com/search?q=%22Just%20watched%20goat!%20It%20was%20peak!%20%23GOATmovie%22&src=typed_query&f=top"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "@sammychrise Can't believe this TV show tried to make us all hate this guy\nOnly for him to be the best guy from this show and getting even a better movie than Sam Wilson \ud83d\ude02\ud83d\ude2d\nMy goat https://t.co/lwHGVLsuFy",
+      "engagementNote": "\u2764\ufe0f 116 \ud83d\udd01 0 \ud83d\udcac 1",
+      "sourceUrl": "https://x.com/i/web/status/2030018090101297197"
     },
     {
-      "cluster": "GOAT success",
-      "verbatim": "GOAT took the top spot at the weekend box office, beating out the second weekend of Wuthering Heights. Both are doing well",
-      "engagementNote": "100s of engagements in film accounts (reported)",
-      "sourceUrl": "https://x.com/search?q=%22GOAT%20took%20the%20top%20spot%20at%20the%20weekend%20box%20office%22&src=typed_query&f=top"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "i want to rent out a movie theater to watch wuthering heights with my mutuals so we can be unapologetically feral over heathcliff without being judged https://t.co/LjwoAhAqX7",
+      "engagementNote": "\u2764\ufe0f 43 \ud83d\udd01 3 \ud83d\udcac 10",
+      "sourceUrl": "https://x.com/i/web/status/2030036482811941049"
     },
     {
-      "cluster": "Scream 7 hype/drama",
-      "verbatim": "Neve Campbell reportedly secured a near $7 million deal for ‘Scream 7’... Courteney Cox was reportedly paid $2 million",
-      "engagementNote": "3.5k+ likes, 130+ reposts, 295k views (reported)",
-      "sourceUrl": "https://x.com/PopBase"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "cortis concept ties to the nba, they have a ost with the movie goat. Once again for the olympics, the korean team CHOSE illit and cortis. Hybe, bighit, and belift had nothing to do with it.",
+      "engagementNote": "\u2764\ufe0f 48 \ud83d\udd01 0 \ud83d\udcac 0",
+      "sourceUrl": "https://x.com/i/web/status/2030017330688782423"
     },
     {
-      "cluster": "Scream 7 hype/drama",
-      "verbatim": "I AM SO PROUD OF MY GIRLS. GO SEE SCREAM 7... IT FEELS LIKE THE NEW NIGHTMARE OF SCREAM. A REAL LOVE LETTER...",
-      "engagementNote": "100+ likes (reported)",
-      "sourceUrl": "https://x.com/search?q=%22GO%20SEE%20SCREAM%207%22%20%22LOVE%20LETTER%22&src=typed_query&f=top"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "Born March 6, in 1904, Hugh Williams.\nOver 65 roles including Charley's Aunt 1930 (debut role), The Dark Stairway, The Avengers 1942, An Ideal Husband - & of course Hindley in Wuthering Heights!\nDid You Know? Williams co",
+      "engagementNote": "\u2764\ufe0f 28 \ud83d\udd01 4 \ud83d\udcac 1",
+      "sourceUrl": "https://x.com/i/web/status/2029961517429297385"
     },
     {
-      "cluster": "Scream 7 hype/drama",
-      "verbatim": "you really think a bunch of french boycotters attended a midnight showing of scream 7 to review bomb it... cope with the fact that scream 7 is a shitty...",
-      "engagementNote": "200+ likes in backlash threads (reported)",
-      "sourceUrl": "https://x.com/search?q=%22french%20boycotters%22%20%22scream%207%22&src=typed_query&f=live"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "Paramount knows how to cook up some horror",
+      "engagementNote": "\u2764\ufe0f 14 \ud83d\udd01 0 \ud83d\udcac 1",
+      "sourceUrl": "https://x.com/i/web/status/2030070528237510776"
     },
     {
-      "cluster": "BAFTA awards chatter",
-      "verbatim": "Supporting Actress/Actor predictions and wins (e.g., “Wunmi Mosaku, ‘Sinners’” and Leading Actor “Robert Aramayo, ‘I Swear’”).",
-      "engagementNote": "Heavy quote engagement from awards trackers",
-      "sourceUrl": "https://x.com/NextBestPicture"
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "@BeverlyHallberg Also, almost 4 out of 10 pornhub users were female in 2024. \n\nWomen are getting into porn at a rapid pace. Even ignoring non-traditional porn like smut and the Wuthering Heights movie.",
+      "engagementNote": "\u2764\ufe0f 13 \ud83d\udd01 2 \ud83d\udcac 0",
+      "sourceUrl": "https://x.com/i/web/status/2029982746815164495"
+    },
+    {
+      "cluster": "March 6 top film-social posts",
+      "verbatim": "tbh I'm not saying Goat is unfunny, the movie can have good jokes but there's some real lazy generic kids movie humor in the mix that's all!",
+      "engagementNote": "\u2764\ufe0f 12 \ud83d\udd01 1 \ud83d\udcac 1",
+      "sourceUrl": "https://x.com/i/web/status/2030028067465269548"
     }
   ]
 }
