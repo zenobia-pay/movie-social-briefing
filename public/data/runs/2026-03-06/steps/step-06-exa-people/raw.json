@@ -1,7 +1,7 @@
 [
   {
     "mode": "supergrok-fallback",
-    "prompt": "Find 10 people/accounts to track for this topic and return strict JSON array with fields: name, handle, why_relevant, url. Topic: What is trending in movie social discourse and film Twitter?",
+    "prompt": "Find 10 people/accounts to track for this topic and return strict JSON array with fields: name, handle, why_relevant, url. Topic: What are the most talked about movies on social media",
     "raw": {
       "session": null,
       "task": null,
@@ -15,19 +15,19 @@
       {
         "name": "Fallback analyst",
         "handle": "@fallback",
-        "why_relevant": "No external people payload returned for topic: What is trending in movie social discourse and film Twitter?",
+        "why_relevant": "No external people payload returned for topic: What are the most talked about movies on social media",
         "url": "https://x.com"
       },
       {
         "name": "Fallback analyst",
         "handle": "@fallback",
-        "why_relevant": "No external people payload returned for topic: What is trending in movie social discourse and film Twitter?",
+        "why_relevant": "No external people payload returned for topic: What are the most talked about movies on social media",
         "url": "https://x.com"
       },
       {
         "name": "Fallback analyst",
         "handle": "@fallback",
-        "why_relevant": "No external people payload returned for topic: What is trending in movie social discourse and film Twitter?",
+        "why_relevant": "No external people payload returned for topic: What are the most talked about movies on social media",
         "url": "https://x.com"
       }
     ]

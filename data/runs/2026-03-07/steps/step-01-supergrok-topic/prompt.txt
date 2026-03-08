@@ -1,0 +1,1 @@
+Find the 20 most talked about movie social-media posts in the last 24h for: What are the most talked about movies on social media. Return strict JSON array with tweet_url,text,author and avoid generic praise/thanks posts.

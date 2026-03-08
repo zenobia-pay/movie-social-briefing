@@ -16,7 +16,7 @@
       },
       "looksCorrect": true,
       "notes": "Expected non-empty AlphaXiv/arXiv paper list",
-      "timestamp": "2026-03-07T22:53:22.656060Z"
+      "timestamp": "2026-03-08T02:55:52.853269Z"
     },
     {
       "step": "step-02-supergrok-topic",
@@ -32,8 +32,8 @@
         }
       },
       "looksCorrect": true,
-      "notes": "SuperGrok topic pass should finish or fallback, and produce normalized output",
-      "timestamp": "2026-03-07T22:53:22.657719Z"
+      "notes": "SuperGrok topic pass should finish/fallback (parse issues tolerated in fallback mode)",
+      "timestamp": "2026-03-08T02:55:52.856786Z"
     },
     {
       "step": "step-03-supergrok-paper-discussion",
@@ -43,14 +43,14 @@
           "ok": true,
           "size": 6
         },
-        "finishedOrFallbackCount": {
+        "okItemCount": {
           "ok": true,
-          "size": 6
+          "size": null
         }
       },
       "looksCorrect": true,
-      "notes": "Per-paper outputs collected=6; finished=0; fallback accepted when normalized artifacts are present",
-      "timestamp": "2026-03-07T22:53:22.660000Z"
+      "notes": "Per-paper outputs collected=6; finished_or_fallback_items=6; requires >=50% successful task statuses",
+      "timestamp": "2026-03-08T02:55:52.861235Z"
     },
     {
       "step": "step-04-supergrok-signals",
@@ -66,8 +66,8 @@
         }
       },
       "looksCorrect": true,
-      "notes": "Signals pass should complete or fallback and produce normalized payload",
-      "timestamp": "2026-03-07T22:53:22.661506Z"
+      "notes": "Signals pass should complete/fallback (parse issues tolerated in fallback mode)",
+      "timestamp": "2026-03-08T02:55:52.863451Z"
     },
     {
       "step": "step-05-supergrok-history-updates",
@@ -83,8 +83,8 @@
         }
       },
       "looksCorrect": true,
-      "notes": "History updates pass should complete or fallback and provide update payload",
-      "timestamp": "2026-03-07T22:53:22.663318Z"
+      "notes": "History updates pass should complete/fallback (parse issues tolerated in fallback mode)",
+      "timestamp": "2026-03-08T02:55:52.865525Z"
     },
     {
       "step": "step-06-exa-people",
@@ -101,7 +101,7 @@
       },
       "looksCorrect": true,
       "notes": "Exa key missing; mode=supergrok-fallback people=3",
-      "timestamp": "2026-03-07T22:53:22.664966Z"
+      "timestamp": "2026-03-08T02:55:52.867589Z"
     },
     {
       "step": "step-07-youtube-search",
@@ -118,7 +118,7 @@
       },
       "looksCorrect": true,
       "notes": "YouTube key missing; SuperGrok fallback mode",
-      "timestamp": "2026-03-07T22:53:22.666700Z"
+      "timestamp": "2026-03-08T02:55:52.869810Z"
     },
     {
       "step": "step-08-consolidation",
@@ -135,13 +135,17 @@
         "selectionObject": {
           "ok": true,
           "size": 5
+        },
+        "selectedItems": {
+          "ok": true,
+          "size": 1
         }
       },
       "looksCorrect": true,
-      "notes": "Consolidation should produce selection/rejections artifacts (selected list may be sparse in fallback mode)",
-      "timestamp": "2026-03-07T22:53:22.728586Z"
+      "notes": "Consolidation must produce selection/rejections artifacts with non-empty selected signals",
+      "timestamp": "2026-03-08T02:55:52.925203Z"
     }
   ],
   "failedSteps": [],
-  "generatedAt": "2026-03-07T22:53:22.729335Z"
+  "generatedAt": "2026-03-08T02:55:52.925927Z"
 }

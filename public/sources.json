@@ -1,85 +1,85 @@
 {
   "briefingTopic": "What are the most talked about movies on social media",
-  "method": "Primary-source only. Auto-rerun for March 6 with direct X status links.",
+  "method": "Primary-source only. Selected from SuperGrok artifacts.",
   "providedBy": "OpenClaw",
-  "asOf": "2026-03-06",
+  "asOf": "2026-03-07",
   "topThingsFilmTwitterFollowing": [
     {
-      "topic": "Wuthering Heights",
-      "verbatim": "High-volume split between praise of the adaptation's aesthetic choices and criticism from book purists.",
-      "sourceUrl": "https://x.com/search?q=Wuthering%20Heights%20movie&src=typed_query&f=live"
+      "topic": "Top conversation",
+      "verbatim": "In 2022, a cook at a Burger King inside an airport in Las Vegas posted a video showing the gift he received for 27 years of work without missing a single day. It was a plastic draw",
+      "sourceUrl": "https://x.com/DoctorLemma/status/2030334663894487310"
     },
     {
-      "topic": "Scream 7",
-      "verbatim": "Pre-release hype plus backlash discourse continues to drive engagement spikes.",
-      "sourceUrl": "https://x.com/search?q=Scream%207&src=typed_query&f=live"
+      "topic": "Top conversation",
+      "verbatim": "The Bride! Is a feminist Joker 2. It will be the worst movie of the year. The only reason I'm not putting it as the worst ever (instead of behind Joker 2), is Joker 2 was more pers",
+      "sourceUrl": "https://x.com/disparutoo/status/2030337455832826152"
     },
     {
-      "topic": "GOAT",
-      "verbatim": "Family-animation chatter remains strong around weekend performance and memeable reactions.",
-      "sourceUrl": "https://x.com/search?q=GOAT%20movie&src=typed_query&f=live"
+      "topic": "Top conversation",
+      "verbatim": "Anya Taylor-Joy promoting Mario Day on March 10 for The Super Mario Galaxy Movie in latinoamerica",
+      "sourceUrl": "https://x.com/anyafolders/status/2030334374474871266"
     }
   ],
   "viralPosts": [
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "you stan scream 7",
-      "engagementNote": "\u2764\ufe0f 2098 \ud83d\udd01 114 \ud83d\udcac 27",
-      "sourceUrl": "https://x.com/i/web/status/2030068461918162995"
+      "cluster": "SuperGrok selected",
+      "verbatim": "In 2022, a cook at a Burger King inside an airport in Las Vegas posted a video showing the gift he received for 27 years of work without missing a single day. It was a plastic drawstring bag with a movie ticket, some pens, a few sweets, and a reusable coffee cup. He wasn\u00e2\u0080\u0099t bitter",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/DoctorLemma/status/2030334663894487310"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "The box office success of Scream 7 is important for one big reason: It proves that online cancel mobs are a paper tiger. The only power they have is from people in power that constantly capitulate to them. Stop bending t",
-      "engagementNote": "\u2764\ufe0f 267 \ud83d\udd01 31 \ud83d\udcac 17",
-      "sourceUrl": "https://x.com/i/web/status/2030067631412170773"
+      "cluster": "SuperGrok selected",
+      "verbatim": "The Bride! Is a feminist Joker 2. It will be the worst movie of the year. The only reason I'm not putting it as the worst ever (instead of behind Joker 2), is Joker 2 was more personal.",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/disparutoo/status/2030337455832826152"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "if a movie theatre collected information and asked customers 'why this movie?' i'm sure 'Neve Campbell / Sidney Prescott' would be the biggest answer for Scream 7.\n\nyes, Ghostface is the reason for Scream's success. that",
-      "engagementNote": "\u2764\ufe0f 116 \ud83d\udd01 9 \ud83d\udcac 8",
-      "sourceUrl": "https://x.com/i/web/status/2030068777891569700"
+      "cluster": "SuperGrok selected",
+      "verbatim": "Anya Taylor-Joy promoting Mario Day on March 10 for The Super Mario Galaxy Movie in latinoamerica",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/anyafolders/status/2030334374474871266"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "@sammychrise Can't believe this TV show tried to make us all hate this guy\nOnly for him to be the best guy from this show and getting even a better movie than Sam Wilson \ud83d\ude02\ud83d\ude2d\nMy goat https://t.co/lwHGVLsuFy",
-      "engagementNote": "\u2764\ufe0f 116 \ud83d\udd01 0 \ud83d\udcac 1",
-      "sourceUrl": "https://x.com/i/web/status/2030018090101297197"
+      "cluster": "SuperGrok selected",
+      "verbatim": "\u00e2\u0080\u009cWhat\u00e2\u0080\u0099s on your mind?\u00e2\u0080\u009d Oh nothing. Just that Jay\u00e2\u0080\u0099s hairpiece hasn\u00e2\u0080\u0099t been accurate since 2019, and Kai\u00e2\u0080\u0099s hasn\u00e2\u0080\u0099t been accurate since the Ninjago Movie\u00e2\u0080\u00a6",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/TraysayT/status/2030331830231085222"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "i want to rent out a movie theater to watch wuthering heights with my mutuals so we can be unapologetically feral over heathcliff without being judged https://t.co/LjwoAhAqX7",
-      "engagementNote": "\u2764\ufe0f 43 \ud83d\udd01 3 \ud83d\udcac 10",
-      "sourceUrl": "https://x.com/i/web/status/2030036482811941049"
+      "cluster": "SuperGrok selected",
+      "verbatim": "Andrzej Zulawski on why 'The Devil\" (1972) was an important movie for him & the advice Andrzej Wajda gave him",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/DannyDrinksWine/status/2030333000000000000"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "cortis concept ties to the nba, they have a ost with the movie goat. Once again for the olympics, the korean team CHOSE illit and cortis. Hybe, bighit, and belift had nothing to do with it.",
-      "engagementNote": "\u2764\ufe0f 48 \ud83d\udd01 0 \ud83d\udcac 0",
-      "sourceUrl": "https://x.com/i/web/status/2030017330688782423"
+      "cluster": "SuperGrok selected",
+      "verbatim": "5 years ago today, 'EVANGELION: 3.0+1.0 Thrice Upon a Time' the Anime Movie Officially Premiered!",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/animeupdates/status/2030327221219897622"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "Born March 6, in 1904, Hugh Williams.\nOver 65 roles including Charley's Aunt 1930 (debut role), The Dark Stairway, The Avengers 1942, An Ideal Husband - & of course Hindley in Wuthering Heights!\nDid You Know? Williams co",
-      "engagementNote": "\u2764\ufe0f 28 \ud83d\udd01 4 \ud83d\udcac 1",
-      "sourceUrl": "https://x.com/i/web/status/2029961517429297385"
+      "cluster": "SuperGrok selected",
+      "verbatim": "Here\u00e2\u0080\u0099s another dumbest so-called vampire movie from cringe Bollywood \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb This is how they\u00e2\u0080\u0099re degrading Indian cinema",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/BaT_MaN_23/status/2029866979184759236"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "Paramount knows how to cook up some horror",
-      "engagementNote": "\u2764\ufe0f 14 \ud83d\udd01 0 \ud83d\udcac 1",
-      "sourceUrl": "https://x.com/i/web/status/2030070528237510776"
+      "cluster": "SuperGrok selected",
+      "verbatim": "Gurren Lagann The Movie: Childhood's End (2008)",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/retro_anime/status/2030342768854245687"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "@BeverlyHallberg Also, almost 4 out of 10 pornhub users were female in 2024. \n\nWomen are getting into porn at a rapid pace. Even ignoring non-traditional porn like smut and the Wuthering Heights movie.",
-      "engagementNote": "\u2764\ufe0f 13 \ud83d\udd01 2 \ud83d\udcac 0",
-      "sourceUrl": "https://x.com/i/web/status/2029982746815164495"
+      "cluster": "SuperGrok selected",
+      "verbatim": "I\u00e2\u0080\u0099ve never seen a Timmy Chalamet movie and probably never will but I\u00e2\u0080\u0099ve seen as much ballet & opera as I can get my eyes on and it never fails to inspire.",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/caslernoel/status/2030340018808480079"
     },
     {
-      "cluster": "March 6 top film-social posts",
-      "verbatim": "tbh I'm not saying Goat is unfunny, the movie can have good jokes but there's some real lazy generic kids movie humor in the mix that's all!",
-      "engagementNote": "\u2764\ufe0f 12 \ud83d\udd01 1 \ud83d\udcac 1",
-      "sourceUrl": "https://x.com/i/web/status/2030028067465269548"
+      "cluster": "SuperGrok selected",
+      "verbatim": "Cults duty ekkandi \u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5 Book your tickets- https://3realmsentertainment.com/movie/39/",
+      "engagementNote": "",
+      "sourceUrl": "https://x.com/PkfcGermany/status/2030339320972812289"
     }
   ]
 }

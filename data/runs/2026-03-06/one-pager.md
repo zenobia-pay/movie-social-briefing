@@ -1,4 +1,4 @@
-# One-Pager — What is trending in movie social discourse and film Twitter? (2026-03-06)
+# One-Pager — What are the most talked about movies on social media (2026-03-06)
 
 Built from step outputs under data/runs/2026-03-06/steps/.
 

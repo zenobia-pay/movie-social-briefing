@@ -1,0 +1,202 @@
+[
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/DoctorLemma/status/2030334663894487310",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/BaT_MaN_23/status/2029866979184759236",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/Blaq5nBoy/status/2030249072423063629",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/retro_anime/status/2030342768854245687",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/caslernoel/status/2030340018808480079",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/PkfcGermany/status/2030339320972812289",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/doraemonbasil/status/2030339099748680149",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/disparutoo/status/2030337455832826152",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/croooozin/status/2030337267517026642",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/RollingStone/status/2030336471677473020",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/anyafolders/status/2030334374474871266",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/therealrozanov/status/2030333908546666696",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/skysmadness/status/2030333327069131139",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/TraysayT/status/2030331830231085222",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/DannyDrinksWine/status/2030333000000000000",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/sillylilylmaoo/status/2030330821219897622",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/animeupdates/status/2030327221219897622",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/jab_ari/status/2030328640752234843",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/IndianSinghh/status/2030328456702243122",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  },
+  {
+    "source_step": "step-01-supergrok-topic",
+    "source_file": "/Users/ryanprendergast/.openclaw/workspace/movie-social-briefing/data/runs/2026-03-07/steps/step-01-supergrok-topic/raw.json",
+    "url": "https://x.com/xaviersonline_/status/2030328389035585696",
+    "text": "",
+    "author": "",
+    "score": 0,
+    "reasons": [],
+    "rejected_reason": "low_signal_or_empty_text"
+  }
+]

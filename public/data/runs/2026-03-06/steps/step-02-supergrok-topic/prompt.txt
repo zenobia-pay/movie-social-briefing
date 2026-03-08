@@ -1,5 +1,5 @@
 Open https://x.com then open SuperGrok.
 Time window requirement: ONLY posts from the last 24 hours.
 Ask SuperGrok EXACTLY THIS:
-"What is the latest in What is trending in movie social discourse and film Twitter? in the last 24 hours? Return only high-signal NEW X posts from the last 24 hours, with direct status URLs and exact tweet text."
+"What is the latest in What are the most talked about movies on social media in the last 24 hours? Return only high-signal NEW X posts from the last 24 hours, with direct status URLs and exact tweet text."
 Return strict JSON with tweet URLs and verbatim text only.

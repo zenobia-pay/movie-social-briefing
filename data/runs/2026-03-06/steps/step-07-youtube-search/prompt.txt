@@ -1,6 +1,6 @@
 YouTube step objective:
 1) Use an LLM to derive 3-4 keyword queries from:
-   - briefing topic: "What is trending in movie social discourse and film Twitter?"
+   - briefing topic: "What are the most talked about movies on social media"
    - today's scraped papers/tweets/signals
 2) Search YouTube Data API for NEW videos only in date window: 2026-03-06 UTC day only.
 3) Deduplicate videos across queries.
